@@ -24,5 +24,7 @@ public class arreglosYloops {
         }
 
         System.out.println("la serie dura " + seasonDuration + " minutos");
+
+
     }
 }

@@ -8,6 +8,7 @@ public class input {
         // lo meto en una variable para el input
         int dayOfWeek = scanner.nextInt();
         String myString = scanner.next();
+        double iDouble = scanner.nextDouble();
 
         switch (dayOfWeek){
             case 1:
