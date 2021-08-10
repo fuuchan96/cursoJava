@@ -24,6 +24,10 @@ public class clasesYObjetos {
         System.out.println(vampireKnight.getName());
         System.out.println(vampireKnight.getGenero());
         System.out.println("duracion de capitulo: " + vampireKnight.getDuration());
+
+        vampireKnight.play();
+        vampireKnight.pause();
+        nanbaka.play();
     }
 
 }

@@ -35,4 +35,12 @@ public class creandoClase {
     public int getDuration(){
         return duracion;
     }
+
+    public void play(){
+        System.out.println("playing " + name);
+    }
+
+    public void pause(){
+        System.out.println("pausing " + name);
+    }
 }
